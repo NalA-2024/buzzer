@@ -19,3 +19,6 @@ This app supports both iOS and Android.</br>
 * Multiple mode can be used without a limit on the number of participants.
 * You can easily participate by creating a room code or entering the code with just a few touches.
 * Press the reset button at the top right to reset the ranking of all devices.
+
+##
+If you have any issues, please contact to nal.a.202410@gmail.com
