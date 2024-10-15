@@ -21,4 +21,4 @@ This app supports both iOS and Android.</br>
 * Press the reset button at the top right to reset the ranking of all devices.
 
 ##
-If you have any issues, please contact to nal.a.202410@gmail.com
+If you have any issues, please contact to nal.a.202410@gmail.com
