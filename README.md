@@ -8,6 +8,7 @@ Quiz Buzzer Button provides a button-pressed ranking using a single or multiple 
 It is free and simply provides a button-pressing ranking without any other additional features.</br>
 This app supports both iOS and Android.</br>
 
+##
 1. Single Device Mode
 * It can run on a single device in single device mode.
 * Single mode supports a minimum of 2 to a maximum of 6 participants.
