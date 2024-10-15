@@ -1,4 +1,4 @@
-# buzzer
+# Quiz Buzzer Button
 Quiz Buzzer Button can be used to rank in speed quiz games, athletic competitions, board games such as Halli Galli, and more.
 If you have only one device, you can check the ranking by selecting Single Device mode, or Multiple Device mode if you use multiple devices.
 Enjoy a variety of fun time with Quiz Buzzer Button!
